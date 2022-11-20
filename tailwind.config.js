@@ -9,7 +9,11 @@ module.exports = {
     ],
     darkMode: false,
     theme: {
-      extend: {},
+      extend: {
+        fontFamily: {
+          'body': ['Georgia','serif'],
+        },
+      },
     },
     variants: {},
     plugins: [
