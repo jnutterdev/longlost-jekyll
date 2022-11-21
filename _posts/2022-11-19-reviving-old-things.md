@@ -10,8 +10,8 @@ categories: update
 
 A visit to the past if you will
 
-### Currently reading
+### ° Currently reading
 - Book 1
 
-### Currently listening to
+### ° Currently listening to
 - Music 1
